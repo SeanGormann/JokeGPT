@@ -1,5 +1,5 @@
 # JokeGPT
-Building a transformer architecture from scratch.
+Building a transformer decoder from scratch and teaching it comedy.
 
 This project was all about understanding the transformer architechture - the data preprocessing necessary, tokenization, multiheaded attention, self attention and more. It was great to get a thorough understanding of these topics, and I look forward to exploring them further. For this project I mainly followed the tutorial presented by Andrej Karpathy which can be found: [Here](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=465s&ab_channel=AndrejKarpathy) 
 
